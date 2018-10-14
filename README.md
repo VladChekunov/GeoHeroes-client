@@ -1,7 +1,8 @@
 # GeoHeroes-client
-	JS implementation of GeoHeroes client.
+JS implementation of GeoHeroes client.
+	https://vladchekunov.github.io/GeoHeroes-client/
 
-# Concept
+# Concept list
 	Capture the flag
 	RPG
 	VR
@@ -13,7 +14,7 @@
 		OpenGLES
 	Golang Server
 		MySQL
-# TODO
+# TODO list
 	Make WebGL base;
 	Make flat render for game;
 	Make auth;
